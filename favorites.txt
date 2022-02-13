@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 pork
 meat
 sundae
+=======
+쇼생크탈출
+인생은 아름다워
+>>>>>>> movies
